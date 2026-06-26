@@ -1,0 +1,6 @@
+{
+  "name": "SelfTutor.APP",
+  "description": "A magical AI self-tuition app for kids with notes, flashcards, interactive quizzes, step-by-step diagnosis, and a supportive AI Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
